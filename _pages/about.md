@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an astrophysicist working with major radio observatories, both on Earth and in space, to better understand the physics of the interstellar medium. 
+I’m an astrophysicist at the Jodrell Bank Centre of Astrophysics studying the physics of the interstellar medium.
 
 ---
 
